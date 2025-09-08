@@ -101,8 +101,8 @@ export function LandingPage() {
           <div className="text-center space-y-4 mb-16">
             <h2 className="font-heading text-3xl md:text-4xl font-bold">How it works.</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              During proctoring exams. You don't need to touch you keyboard! Configure your
-              AI-Assistant anyway you'd like. You can get direct answers, or use it for study help.
+              During proctoring exams. You don&apos;t need to touch you keyboard! Configure your
+              AI-Assistant anyway you&apos;d like. You can get direct answers, or use it for study help.
               Fast, easy, compatible.
             </p>
           </div>
@@ -338,7 +338,7 @@ export function LandingPage() {
                     <Icon icon="ph:star-fill" className="w-5 h-5 text-primary" />
                   </div>
                   <p className="text-muted-foreground mb-6">
-                    "We've saved over 40 hours per week on manual data entry tasks. The ROI was
+                    "We&apos;ve saved over 40 hours per week on manual data entry tasks. The ROI was
                     evident within the first month of implementation."
                   </p>
                   <div className="flex items-center space-x-3">
@@ -368,7 +368,7 @@ export function LandingPage() {
                     <Icon icon="ph:star-fill" className="w-5 h-5 text-primary" />
                   </div>
                   <p className="text-muted-foreground mb-6">
-                    "FlowAI's integration capabilities are outstanding. We connected all our tools
+                    "FlowAI&apos;s integration capabilities are outstanding. We connected all our tools
                     seamlessly and now have a unified workflow across departments."
                   </p>
                   <div className="flex items-center space-x-3">
@@ -396,7 +396,7 @@ export function LandingPage() {
                     <Icon icon="ph:star-fill" className="w-5 h-5 text-primary" />
                   </div>
                   <p className="text-muted-foreground mb-6">
-                    "The AI-powered insights have transformed how we make business decisions. We're
+                    "The AI-powered insights have transformed how we make business decisions. We&apos;re
                     now proactive instead of reactive in our approach."
                   </p>
                   <div className="flex items-center space-x-3">
